@@ -8,4 +8,3 @@ class Point():
     
     def get_length(self):
         return sqrt(self.x ** 2 + self.y ** 2)
-    
